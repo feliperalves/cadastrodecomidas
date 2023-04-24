@@ -1,0 +1,45 @@
+/* Geral */
+* {
+    font-family: 'ABeeZee', sans-serif;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'ABeeZee', sans-serif;
+
+}
+
+/* Header */
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: #FFA500;
+}
+
+#h1-header {
+    color: #FFFFFF;
+}
+
+#a-header {
+    color: #ccc;
+    text-decoration: none;
+    transition: .5s
+}
+
+/* Outros */
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.form-group label {
+    color: yellow;
+    font-weight: bold;
+  }
+
+#cardbackground {
+    background-color: red;
+}
